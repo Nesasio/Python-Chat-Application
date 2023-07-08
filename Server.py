@@ -1,11 +1,5 @@
 # Python based Graphical User Interface Client for Chat Application using Custom Tkinter
 
-# Authors:
-#     Rudy : Github: https://github.com/Rudrransh17
-#     Light : Github: https://github.com/Nesasio
-
-# Status: Development
-
 
 # ======================== PROTOTYPE SERVER OF NEURON =============================
 

@@ -1,12 +1,5 @@
 # Python based Graphical User Interface Client for Chat Application using Custom Tkinter
 
-# Authors:
-#     Light : Github: https://github.com/Nesasio
-#     Rudy : Github: https://github.com/Rudrransh17
-
-# Status: Development
-
-
 # Custom Tkinter for modern GUI- Github: https://github.com/TomSchimansky/CustomTkinter
 # Custom Tkinter documentation: https://github.com/TomSchimansky/CustomTkinter/wiki
 
