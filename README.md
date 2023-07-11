@@ -15,3 +15,8 @@ The libraries required for the program are:
 - threading
 - socket
 - tkinter
+
+## Using the Application
+To run the application, one host workstation on a network needs to run `Server.py` and after the server is active, the
+remanining workstations which are to be connected need to run `Client.py`. After that a login page will appear and user 
+can either login or signup for the application and can join the chat.
