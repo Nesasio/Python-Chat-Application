@@ -41,10 +41,8 @@ customtkinter.set_appearance_mode("dark")
 customtkinter.set_default_color_theme("dark-blue")
 
 
-
 # Path for Image files
 PATH = os.path.dirname(os.path.realpath(__file__))
-
 
 
 # Host and Port
@@ -54,6 +52,7 @@ PORT = 1234
 
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 client.connect((HOST, PORT))
+APP_NAME = "NEURON"
 
 
 # ======================================================================================
@@ -68,7 +67,7 @@ class App(customtkinter.CTk):
         super().__init__()
 
         self.geometry(f"{App.WIDTH}x{App.HEIGHT}")
-        self.title("Log in to NEURON")
+        self.title(f"Log in to {APP_NAME}")
         self.minsize(500, 400)
         self.maxsize(500, 400)
         self.protocol("WM_DELETE_WINDOW", self.on_closing)
