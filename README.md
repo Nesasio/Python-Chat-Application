@@ -1,3 +1,17 @@
 # Python Chat Application
-A Local Area Network based GUI chat application made with python.
-For Graphical User Interface customtkinter and tkinter libraries are used.
+This is a simple LAN based chat application which allows multiple users to chat and share files over a local network.
+For Graphical User Interface customtkinter library was used.
+
+## Features
+These are the major features of this application:
+- Establishes connection between multiple clients over a local network
+- Allows users to transfer files
+- Login/signup for chat system
+- Chat history is saved
+
+## Requirements
+The libraries required for the program are:
+- customtkinter
+- threading
+- socket
+- tkinter
