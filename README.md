@@ -1,6 +1,6 @@
 # Python Chat Application
-This is a simple LAN based chat application which allows multiple users to chat and share files over a local network.
-For Graphical User Interface customtkinter library was used.
+A simple LAN based chat application which allows multiple users to chat and share files over a local network.
+For Graphical User Interface [customtkinter](https://customtkinter.tomschimansky.com/) library was used.
 
 ## Features
 These are the major features of this application:
