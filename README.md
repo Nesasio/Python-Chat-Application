@@ -10,7 +10,7 @@ These are the major features of this application:
 - Chat history is saved
 
 ## Requirements
-The libraries required for the program are:
+The libraries required are:
 - customtkinter
 - threading
 - socket
