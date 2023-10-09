@@ -1,4 +1,4 @@
-# Python based Graphical User Interface Client for Chat Application using Custom Tkinter
+# Python based Graphical User Interface Client for Chat Application
 
 
 # ======================== PROTOTYPE SERVER OF NEURON =============================
